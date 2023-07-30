@@ -1,0 +1,5 @@
+kiteconnect==4.2.0
+celery==5.0.6
+redis==4.6.0
+backtrader==1.9.78.123
+faust==1.10.4
